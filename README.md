@@ -8,4 +8,4 @@ Este repositorio es para el Grupo 4 de Codo a Codo
 - Sebastian Dugo
 - Gabriela
 - Tiziana
-
+- Nicole Molenberg
